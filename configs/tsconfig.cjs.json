@@ -1,5 +1,3 @@
-// Compilation settings for CommonJS format
-
 {
   "extends": "./tsconfig.base.json",
   "compilerOptions": {

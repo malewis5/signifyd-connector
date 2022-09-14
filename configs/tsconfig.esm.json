@@ -1,5 +1,3 @@
-// Compilation settings for ECMAScript format
-
 {
   "extends": "./tsconfig.base.json",
   "compilerOptions": {
