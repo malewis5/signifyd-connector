@@ -8,6 +8,11 @@ export function goodBye() {
   return message;
 }
 
+export function what() {
+  const message = 'what!';
+  return message;
+}
+
 export default {
   helloWorld,
   goodBye,
