@@ -1,6 +1,6 @@
 {
   "name": "@peakactivity/signifyd-connector",
-  "version": "0.0.0-development",
+  "version": "0.0.1-development",
   "description": "A lightweight npm package for using Signifyd on the Web.",
   "main": "./lib/cjs/index.js",
   "files": [

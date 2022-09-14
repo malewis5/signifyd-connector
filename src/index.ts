@@ -1,3 +1,3 @@
-const mypackage = () => {
+export const mypackage = () => {
   return 'yo';
 };
