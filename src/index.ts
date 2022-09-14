@@ -1,0 +1,3 @@
+const mypackage = () => {
+  return 'yo';
+};
